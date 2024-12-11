@@ -10,11 +10,11 @@ const Home = () => {
                 </a>
                 <div className="nav-links">
                     <ul>
-                        <li><a href="">HOME</a></li>
+                        <li><a href="/">HOME</a></li>
                         <li><a href="/about">ABOUT</a></li>
                         <li><a href="">COURSE</a></li>
                         <li><a href="">BLOG</a></li>
-                        <li><a href="">CONTACT</a></li>
+                        <li><a href="/contact">CONTACT</a></li>
                     </ul>
                 </div>
             </nav>

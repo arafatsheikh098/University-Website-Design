@@ -1,0 +1,14 @@
+.blog {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .blog h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .blog p {
+    font-size: 18px;
+  }
+  

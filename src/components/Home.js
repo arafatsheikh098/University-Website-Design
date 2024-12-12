@@ -13,7 +13,7 @@ const Home = () => {
                         <li><a href="/">HOME</a></li>
                         <li><a href="/about">ABOUT</a></li>
                         <li><a href="/course">COURSE</a></li>
-                        <li><a href="">BLOG</a></li>
+                        <li><a href="/blog">BLOG</a></li>
                         <li><a href="/contact">CONTACT</a></li>
                     </ul>
                 </div>
